@@ -1,0 +1,14 @@
+#myname{
+    color: blanchedalmond;
+}
+.xyz{
+    color: #b18484;
+}
+#button {
+    color: #b184ff;
+    border-radius: 10%;
+    width: 150px;       /* makes the button wider */
+    height: 50px;       /* makes the button taller */
+    font-size: 20px;    /* makes the text bigger */
+    padding: 10px 20px; /* adds spacing inside the button */
+}
